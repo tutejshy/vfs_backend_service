@@ -1,0 +1,31 @@
+[{
+	"id": 3070,
+	"parentId": 0,
+	"masterId": 0,
+	"name": "Short-Term VISA Type C",
+	"missionCode": "ltu",
+	"centerCode": "Mins",
+	"code": "3",
+	"culturecode": "en-US",
+	"iswaitlist": false,
+	"isTMIEnabled": false,
+	"isVLNNumberEnable": false,
+	"vlnNumberRegex": null,
+	"vlnNumberLabelFormat": null,
+	"error": null
+}, {
+	"id": 4020,
+	"parentId": 0,
+	"masterId": 0,
+	"name": "Long-Term VISA Type D",
+	"missionCode": "ltu",
+	"centerCode": "Mins",
+	"code": "2",
+	"culturecode": "en-US",
+	"iswaitlist": false,
+	"isTMIEnabled": false,
+	"isVLNNumberEnable": false,
+	"vlnNumberRegex": null,
+	"vlnNumberLabelFormat": null,
+	"error": null
+}]

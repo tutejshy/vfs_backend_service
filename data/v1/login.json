@@ -1,0 +1,15 @@
+{
+	"accessToken": "jwt token",
+	"isAuthenticated": false,
+	"nearestVACCountryCode": null,
+	"FailedAttemptCount": 0,
+	"isAppointmentBooked": false,
+	"isLastTransactionPending": false,
+	"isAppointmentExpired": false,
+	"isROCompleted": false,
+	"roleName": null,
+	"error": {
+		"code": 410,
+		"description": "Invalid Logins"
+	}
+}

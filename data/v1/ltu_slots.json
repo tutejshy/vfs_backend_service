@@ -1,0 +1,54 @@
+[{
+		"mission": null,
+		"center": null,
+		"visacategory": null,
+		"date": null,
+		"isWeekend": false,
+		"counters": null,
+		"error": {
+			"code": 1035,
+			"description": "Please select different date and time because all appointments are scheduled in this slot"
+		}
+	},
+	{
+		"mission": "Poland",
+		"center": "Poland Visa Application Center-Pinsk",
+		"visacategory": "02",
+		"date": "04/04/2022",
+		"isWeekend": false,
+		"counters": [{
+				"allocationCenter": "General user",
+				"categoryCode": "CC & GU",
+				"groups": [{
+					"visaGroupName": "National D-visa",
+					"timeSlots": [{
+							"allocationId": 3072754,
+							"timeSlot": "9:45-10:00",
+							"slotType": "Normal",
+							"totalSeats": 2,
+							"remainingSeats": 2,
+							"startTimetick": 0
+						},
+						{
+							"allocationId": 3072755,
+							"timeSlot": "10:15-10:30",
+							"slotType": "Normal",
+							"totalSeats": 2,
+							"remainingSeats": 2,
+							"startTimetick": 0
+						},
+						{
+							"allocationId": 3072756,
+							"timeSlot": "10:30-10:45",
+							"slotType": "Normal",
+							"totalSeats": 2,
+							"remainingSeats": 2,
+							"startTimetick": 0
+						}
+					]
+				}]
+			}
+		],
+		"error": null
+	}
+]
